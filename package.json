@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/websockets-playlist/issues"
+    "url": "https://github.com/rafatansari12/websocket-chat-messenger/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/websockets-playlist#readme",
+  "homepage": "https://github.com/rafatansari12/websocket-chat-messenger#readme",
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^2.3.0"
