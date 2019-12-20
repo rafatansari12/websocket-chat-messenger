@@ -1,4 +1,7 @@
-# websockets-playlist
+# websocket-chat-messenger
+
+Some important commands-->
+
 
 To check node version installed :
 node --version
@@ -23,3 +26,5 @@ npm install socket.io --save
 
 To source of the script for the frontend socket connection(from socket.io/library website) :
 https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js
+
+Credits : iamshaunjp (Net Ninja Youtube Channel) 
